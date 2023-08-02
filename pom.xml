@@ -9,7 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>orm_assignmet_part_01</module>
+        <module>orm_assignment_part_02</module>
+        <module>orm_assignment_part_02/one_to_one_relationship</module>
     </modules>
 
     <properties>
