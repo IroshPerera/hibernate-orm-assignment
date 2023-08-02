@@ -11,6 +11,8 @@
     <modules>
         <module>orm_assignment_part_02</module>
         <module>orm_assignment_part_02/one_to_one_relationship</module>
+        <module>orm_assignment_part_02/one_to_many_relationship</module>
+        <module>orm_assignment_part_02/many_to_many_relationship</module>
     </modules>
 
     <properties>
